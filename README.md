@@ -1,0 +1,3 @@
+# NEUEDA training
+
+## Git experimentation
